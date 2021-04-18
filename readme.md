@@ -10,12 +10,12 @@
         - [X] Linking
         - [X] Programming environments
     - #### Objects, Types and Values
-        - [ ] Input
-        - [ ] Variables
-        - [ ] Input and type
-        - [ ] Operations and operators
-        - [ ] Assignment and initialization
-        - [ ] Composite assignment operators
+        - [X] Input
+        - [X] Variables
+        - [X] Input and type
+        - [X] Operations and operators
+        - [X] Assignment and initialization
+        - [X] Composite assignment operators
         - [ ] Names
         - [ ] Types and objects
         - [ ] Types safety

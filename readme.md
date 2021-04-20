@@ -16,10 +16,17 @@
         - [X] Operations and operators
         - [X] Assignment and initialization
         - [X] Composite assignment operators
-        - [ ] Names
-        - [ ] Types and objects
-        - [ ] Types safety
+        - [X] Names
+        - [X] Types and objects
+        - [X] Types safety
     - #### Computation
+        - [ ] Computation
+        - [ ] Objectives and tools
+        - [ ] Expressions
+        - [ ] Statements
+        - [ ] Functions
+        - [ ] Vector
+        - [ ] Language features
     - #### Errors
     - #### Writing a Program
     - #### Completing a Program

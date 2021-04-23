@@ -20,8 +20,8 @@
         - [X] Types and objects
         - [X] Types safety
     - #### Computation
-        - [ ] Computation
-        - [ ] Objectives and tools
+        - [X] Computation
+        - [X] Objectives and tools
         - [ ] Expressions
         - [ ] Statements
         - [ ] Functions

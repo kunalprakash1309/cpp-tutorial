@@ -22,7 +22,7 @@
     - #### Computation
         - [X] Computation
         - [X] Objectives and tools
-        - [ ] Expressions
+        - [X] Expressions
         - [ ] Statements
         - [ ] Functions
         - [ ] Vector

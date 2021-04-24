@@ -25,8 +25,8 @@
         - [X] Expressions
         - [X] Statements
         - [X] Functions
-        - [ ] Vector
-        - [ ] Language features
+        - [X] Vector
+        - [X] Language features
     - #### Errors
     - #### Writing a Program
     - #### Completing a Program

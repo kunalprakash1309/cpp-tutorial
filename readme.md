@@ -23,8 +23,8 @@
         - [X] Computation
         - [X] Objectives and tools
         - [X] Expressions
-        - [ ] Statements
-        - [ ] Functions
+        - [X] Statements
+        - [X] Functions
         - [ ] Vector
         - [ ] Language features
     - #### Errors

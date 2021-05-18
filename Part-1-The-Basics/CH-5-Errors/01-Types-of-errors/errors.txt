@@ -1,0 +1,10 @@
+Types of Errors :- 
+
+1. Compile time errors :- Errors found by the compiler
+                        a. Syntax errors
+                        b. Type errors
+
+2. Link time errors :- Errors found by the linker when it is trying to combine object files into an executable program.
+
+
+            

@@ -28,9 +28,27 @@
         - [X] Vector
         - [X] Language features
     - #### Errors
+        - [X] Introduction
+        - [X] Source of errors
+        - [X] Compile-time errors
+        - [X] Link-time errors
+        - [X] Run-time errors
+        - [] Exceptions
+        - [X] Logic errors
+        - [] Estimation
+        - [] Debugging
+        - [] Pre- and post-conditions
+        - [] Testing
     - #### Writing a Program
     - #### Completing a Program
     - #### Technicalities: Functions, etc.
+        - [X] Technicalities
+        - [X] Declarations and definition
+        - [X] Header files
+        - [] Scope
+        - [] Function call and return
+        - [] Order of evalution
+        - [] Namespaces
     - #### Technicalities: Classes, etc.
 - ### Part II - Input and Ouptut
 - ### Part III - Data and Algorithms

@@ -45,8 +45,8 @@
         - [X] Technicalities
         - [X] Declarations and definition
         - [X] Header files
-        - [ ] Scope
-        - [ ] Function call and return
+        - [X] Scope
+        - [X] Function call and return
         - [ ] Order of evalution
         - [ ] Namespaces
     - #### Technicalities: Classes, etc.

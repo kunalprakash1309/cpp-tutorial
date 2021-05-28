@@ -50,6 +50,14 @@
         - [ ] Order of evalution
         - [ ] Namespaces
     - #### Technicalities: Classes, etc.
+        - [X] User-defined types
+        - [X] Classes and members
+        - [ ] Interface and implementation
+        - [ ] Evolving a class
+        - [ ] Enumerations
+        - [ ] Operator overloading
+        - [ ] Class interfaces
+        - [ ] The Date class
 - ### Part II - Input and Ouptut
 - ### Part III - Data and Algorithms
 - ### Part IIII - Broadening the View

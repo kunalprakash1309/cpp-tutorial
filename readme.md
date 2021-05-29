@@ -52,9 +52,9 @@
     - #### Technicalities: Classes, etc.
         - [X] User-defined types
         - [X] Classes and members
-        - [ ] Interface and implementation
-        - [ ] Evolving a class
-        - [ ] Enumerations
+        - [X] Interface and implementation
+        - [X] Evolving a class
+        - [X] Enumerations
         - [ ] Operator overloading
         - [ ] Class interfaces
         - [ ] The Date class

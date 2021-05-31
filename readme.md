@@ -55,8 +55,8 @@
         - [X] Interface and implementation
         - [X] Evolving a class
         - [X] Enumerations
-        - [ ] Operator overloading
-        - [ ] Class interfaces
+        - [X] Operator overloading
+        - [X] Class interfaces
         - [ ] The Date class
 - ### Part II - Input and Ouptut
 - ### Part III - Data and Algorithms

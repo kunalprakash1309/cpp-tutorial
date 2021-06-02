@@ -57,7 +57,7 @@
         - [X] Enumerations
         - [X] Operator overloading
         - [X] Class interfaces
-        - [ ] The Date class
+        - [X] The Date class
 - ### Part II - Input and Ouptut
 - ### Part III - Data and Algorithms
 - ### Part IIII - Broadening the View
